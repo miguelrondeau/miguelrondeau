@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on my skill set
+- 🌱 I’m currently learning how tu use Github
+
 <!--
 **miguelrondeau/miguelrondeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
